@@ -1,5 +1,6 @@
 # vimrc
 Preview my nvim open Files 
+
 ![](Screen%20Shot%202020-11-15%20at%2020.06.55.png)
 
 # Commands and Shortcuts
