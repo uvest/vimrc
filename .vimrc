@@ -105,3 +105,5 @@ set errorformat=%A%f:%l:\ %n,%-Z%p^,%-C%.%#
 map <F9> :make<Return>:copen<Return>
 map <F10> :cnext<Return>
 map <F11> :cprevious<Return>
+
+
