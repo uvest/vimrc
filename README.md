@@ -12,11 +12,11 @@ Preview my nvim open Files
 + Press z for quit file
 
 + Press space + nt (view files), now with s open files on a same windows
-+ Press Command + <F5> or <F5> For run Files Python with Terminal
-+ Press Command + <F3> for Run Files html and CSS, NOT PHP Files, in this case USE MAMP or XAMPP
-+ Press Command + <F9> or <F9> For compile files Java using NVIN / VIM
-+ Press Command + <F10> or <F10> For next compile File Java
-+ Press Command + <F11> or <F11> for previous compile File Java
++ Press Command + < F5 > or < F5 > For run Files Python with Terminal
++ Press Command + < F3 > for Run Files html and CSS, NOT PHP Files, in this case USE MAMP or XAMPP
++ Press Command + < F9 > or < F9 > For compile files Java using NVIN / VIM
++ Press Command + < F10 > or < F10 > For next compile File Java
++ Press Command + < F11 > or < F11 > for previous compile File Java
 
 # WARNING
 + Not working icons, first install Font with brew [Hack Nerd Font] and add to iterm2 font and try
